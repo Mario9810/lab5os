@@ -1,0 +1,17 @@
+
+pid[1]
+deadline[16000000000]
+Before sched_setscheduler:priority 0
+After sched_setscheduler:priority 0
+
+Task(1) has just started
+Job(1,1) starts
+Job(1,1) ends (0.660000)
+Job(1,2) starts
+Job(1,2) ends (0.660000)
+Job(1,3) starts
+Job(1,3) ends (0.660000)
+
+Task(1) has finished
+
+
